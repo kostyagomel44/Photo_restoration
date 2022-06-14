@@ -1,2 +1,1 @@
-TOKEN = '5322338955:AAEjxcC0-iIYg8jRx0Di9IYS7fovrSy-GIo'
-# TOKEN = '5255565518:AAEUdqvAFOr7tzStLzLeROAon6h7ds1qJR4'
+TOKEN = 'Here you should put your Tg TOKEN'
