@@ -1,5 +1,5 @@
 # Photo_Restoration - сервис по восстановлению старых фотографий
-![My Remote Image](https://i.ibb.co/zsLStNP/index-1.png)
+![My Remote Image](https://i.ibb.co/rpYZfXd/123-Ie-Q03.png)
 
 
 ### Stack:
