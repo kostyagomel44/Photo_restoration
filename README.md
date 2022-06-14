@@ -33,7 +33,7 @@ https://deepai.org/machine-learning-model/torch-srgan
 
 ### 4. Обрезка фотографии
 #### Предположим вы просто сфотографировали фотографию на столе и не хотите ее обрезать вручную. Для этого случае встроена функция обрезки.
-![My Remote Image](https://i.ibb.co/2yLFpxV/Fit-Predict5.png)
+![My Remote Image](https://i.ibb.co/KGQrrvP/123-Nha-Ug.png)
 
 ### Пример работ
 
